@@ -1,10 +1,10 @@
 # Recipes
 
-| Abbr. | Full |
-| --- | --- |
-| c | cup (200-250ml) |
-| tsp | teaspoon |
-| tbs | tablespoon |
+| Abbr. | Full            |
+| ---   | ---             |
+| c     | cup (200-250ml) |
+| tsp   | teaspoon        |
+| tbs   | tablespoon      |
 
 ## Mannik
 
@@ -14,9 +14,7 @@
 - 15g butter
 - Baking paper
 
-### Steps
-
-≈2h total
+### Steps `≈2h`
 
 1. Mix semolina with milk and leave it in the fridge for 1h
 1. Mix eggs with sugar
