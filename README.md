@@ -1,5 +1,50 @@
 # Recipes
 
+| Abbr. | Full |
+| --- | --- |
+| c | cup (200-250ml) |
+| tsp | teaspoon |
+| tbs | tablespoon |
+
+## Mannik
+
+- 1c semolina, sugar, flour & sour milk
+- 3 eggs
+- 1tsp baking powder
+- 15g butter
+- Baking paper
+
+### Steps
+
+≈2h total
+
+1. Mix semolina with milk and leave it in the fridge for 1h
+1. Mix eggs with sugar
+1. Mix flour with baking powder
+1. Mix altogether
+1. Lay the baking tray with baking paper and oil it with butter, pour in the mixture
+1. Put in preheated oven, 190°C for 40m
+
+## Stewed cabbage
+
+### Ingredients
+
+- Onion
+- 0.5kg cabbage
+- 0.5tbs vinegar
+- 0.5tbs sugar
+- 0.5tbs flour
+- 1tbs tomato purée
+- 1c water
+- 2tbs vegetable oil
+
+### Steps
+
+1. Chop the cabbage
+1. Put it into a stewpan
+1. Add oil and water
+1. Let it stew for 30m with lid closed
+
 ## Рассольник
 
 Переберите перловую крупу и тщательно ее промойте. Затем переложите перловку в
