@@ -40,6 +40,11 @@
 1. Put it into a stewpan
 1. Add oil and water
 1. Let it stew for 30m with lid closed
+1. Chop and fry onion
+1. Add onion, tomato purée, vinegar and sugar
+1. Spice it per taste and continue to stew until cabbage is cooked
+1. Add fried in oil flour, mix and bring to boil
+1. Enjoy!
 
 ## Рассольник
 
