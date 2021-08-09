@@ -6,6 +6,28 @@
 | tsp   | teaspoon        |
 | tbs   | tablespoon      |
 
+## Pancakes
+
+- 0.5L kefir
+- 3tbs sugar
+- 1tsp salt
+- 2c flour
+- 1tsp soda
+
+1. Mix all except flour
+2. Slowly mixin flour until thick
+3. Fry on oiled pan
+   1.5m one side until golden (should be bubbles)
+   1m other until golden
+
+## Seafood chowder
+
+- cream
+- butter?
+- seafood (& salmon)
+- leek (& spring onions?)
+- cheery tomatoes
+
 ## Mannik
 
 - 1c semolina, sugar, flour & sour milk
