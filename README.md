@@ -6,6 +6,23 @@
 | tsp   | teaspoon        |
 | tbs   | tablespoon      |
 
+## Charlotte Apple Pie
+
+- 6 eggs
+- 150g sugar
+- 150g flour
+- 1tsp dough leavening agent
+- 4 sour green apples
+
+1. Mix eggs & sugar until white'n'fluffy
+2. Add flour mixed with DLA
+3. Consistency should be like sour cream thick
+4. Oil the form with butter
+5. Sprinkle with flour (or sugar/crumbles mix)
+6. Lay down thinly sliced apples
+7. Fill the dough in
+8. Bake 35 min at 170°C
+
 ## Pancakes
 
 - 0.5L kefir
